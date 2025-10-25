@@ -35,9 +35,9 @@ Through this analysis, we aim to demonstrate how **structured database design** 
 
 This project uses the following tools and technologies:
 
-* **PostgreSQL** — for storing and managing the dataset (relational tables, constraints, indexes, and SQL queries).
-* **pgAdmin 4** — as the GUI tool for database administration, visualization, and query execution.
-* **Dataset** — a synthetic or real-world inspired **music-store dataset** containing artists, albums, tracks, customers, and transactions.
+* **PostgreSQL** - for storing and managing the dataset (relational tables, constraints, indexes, and SQL queries).
+* **pgAdmin 4** - as the GUI tool for database administration, visualization, and query execution.
+* **Dataset** - a synthetic or real-world inspired **music-store dataset** containing artists, albums, tracks, customers, and transactions.
 
 ---
 
